@@ -1,0 +1,11 @@
+Age,Salary,Department,Experience,Performance,Promoted
+25,40000,HR,2,Good,No
+32,60000,IT,5,Excellent,Yes
+45,,Finance,10,Good,Yes
+28,50000,IT,3,Average,No
+40,90000,Finance,,Excellent,Yes
+35,55000,HR,4,Good,No
+29,48000,Marketing,3,Average,No
+50,120000,Finance,15,Excellent,Yes
+31,,IT,6,Good,Yes
+27,42000,Marketing,2,Average,No
